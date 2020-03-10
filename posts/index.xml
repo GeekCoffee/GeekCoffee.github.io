@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chen Sheng</title>
+    <link>https://geekcoffee.github.io/posts/</link>
+    <description>Recent content in Posts on Chen Sheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Mar 2020 02:54:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://geekcoffee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>POSIX标准下的同步和异步</title>
+      <link>https://geekcoffee.github.io/posts/posix%E6%A0%87%E5%87%86%E4%B8%8B%E7%9A%84%E5%90%8C%E6%AD%A5%E5%92%8C%E5%BC%82%E6%AD%A5io%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Sat, 07 Mar 2020 15:16:15 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/posix%E6%A0%87%E5%87%86%E4%B8%8B%E7%9A%84%E5%90%8C%E6%AD%A5%E5%92%8C%E5%BC%82%E6%AD%A5io%E6%A8%A1%E5%9E%8B/</guid>
+      <description>人的本质就是其一切社会关系的总和。 What is POSIX? POSIX，即Portable Operating System Interface，可移植操作系统接口。为什么会有一个X呢？因为，</description>
+    </item>
+    
+    <item>
+      <title>TCP并发连接数问题的思考</title>
+      <link>https://geekcoffee.github.io/posts/tcp%E5%B9%B6%E5%8F%91%E8%BF%9E%E6%8E%A5%E6%95%B0%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 10 Mar 2020 02:54:45 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/tcp%E5%B9%B6%E5%8F%91%E8%BF%9E%E6%8E%A5%E6%95%B0%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机中池的概念</title>
+      <link>https://geekcoffee.github.io/posts/%E6%B1%A0%E7%9A%84%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Tue, 10 Mar 2020 02:17:11 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E6%B1%A0%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
+      <description>#池的概念 中国人喜欢比喻，把A比喻成B，但是你要知道，A永远不是B。 进程池 相应实现，参考我的另一篇文章《进程池的实现》 线程池 参考《半同步/半</description>
+    </item>
+    
+    <item>
+      <title>动态规划</title>
+      <link>https://geekcoffee.github.io/posts/dp/</link>
+      <pubDate>Tue, 10 Mar 2020 01:23:55 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/dp/</guid>
+      <description>动态规划 [TOC] DP简介 DP，即Dymanic Programming，动态规划。 小试牛刀：斐波那切数列（Fibonacci Sequence）的实现</description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://geekcoffee.github.io/posts/c/</link>
+      <pubDate>Mon, 09 Mar 2020 19:37:16 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High_performance_server</title>
+      <link>https://geekcoffee.github.io/posts/high_performance_server/</link>
+      <pubDate>Mon, 09 Mar 2020 14:24:11 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/high_performance_server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDB</title>
+      <link>https://geekcoffee.github.io/posts/gdb/</link>
+      <pubDate>Sun, 08 Mar 2020 22:35:43 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/gdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半同步_半反应堆并发模式的线程池实现</title>
+      <link>https://geekcoffee.github.io/posts/%E5%8D%8A%E5%90%8C%E6%AD%A5_%E5%8D%8A%E5%8F%8D%E5%BA%94%E5%A0%86%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Sun, 08 Mar 2020 21:13:20 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E5%8D%8A%E5%90%8C%E6%AD%A5_%E5%8D%8A%E5%8F%8D%E5%BA%94%E5%A0%86%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%AE%9E%E7%8E%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如何使用libevent编写一个高性能网络服务器</title>
+      <link>https://geekcoffee.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8libevent%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sun, 08 Mar 2020 21:10:03 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8libevent%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epoll方式实现高性能网络服务器</title>
+      <link>https://geekcoffee.github.io/posts/epoll%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sun, 08 Mar 2020 21:09:26 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/epoll%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poll方式实现高性能网络服务器</title>
+      <link>https://geekcoffee.github.io/posts/poll%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sun, 08 Mar 2020 21:09:05 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/poll%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Select方式实现网络服务器</title>
+      <link>https://geekcoffee.github.io/posts/select%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sun, 08 Mar 2020 21:08:40 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/select%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socket基础编程</title>
+      <link>https://geekcoffee.github.io/posts/socket%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sun, 08 Mar 2020 21:07:10 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/socket%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>https://geekcoffee.github.io/posts/os/</link>
+      <pubDate>Sun, 08 Mar 2020 20:38:33 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://geekcoffee.github.io/posts/c&#43;&#43;/</link>
+      <pubDate>Sun, 08 Mar 2020 20:35:15 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block_chain</title>
+      <link>https://geekcoffee.github.io/posts/block_chain/</link>
+      <pubDate>Sun, 08 Mar 2020 20:33:57 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/block_chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://geekcoffee.github.io/posts/redis/</link>
+      <pubDate>Sun, 08 Mar 2020 20:32:34 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://geekcoffee.github.io/posts/mysql/</link>
+      <pubDate>Sun, 08 Mar 2020 20:32:07 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://geekcoffee.github.io/posts/shell/</link>
+      <pubDate>Sun, 08 Mar 2020 20:31:54 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang_basic</title>
+      <link>https://geekcoffee.github.io/posts/golang_basic/</link>
+      <pubDate>Sun, 08 Mar 2020 20:31:26 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/golang_basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>流媒体协议</title>
+      <link>https://geekcoffee.github.io/posts/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:47 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UDP协议</title>
+      <link>https://geekcoffee.github.io/posts/udp/</link>
+      <pubDate>Sat, 07 Mar 2020 21:18:43 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/udp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCP协议</title>
+      <link>https://geekcoffee.github.io/posts/tcp/</link>
+      <pubDate>Sat, 07 Mar 2020 21:14:58 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/tcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IP协议</title>
+      <link>https://geekcoffee.github.io/posts/ip/</link>
+      <pubDate>Sat, 07 Mar 2020 21:14:41 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大端字节序与小端字节序的认识和实践</title>
+      <link>https://geekcoffee.github.io/posts/byte_order/</link>
+      <pubDate>Sat, 07 Mar 2020 21:07:12 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/byte_order/</guid>
+      <description>只知道一样东西的用法，不高明。 What is POSIX? POSIX，即Portable Operating System Interface，可移植操作系统接口。为什么会有一个X呢？因为，X表</description>
+    </item>
+    
+    <item>
+      <title>学会如何思考一件事情是一辈子的财富</title>
+      <link>https://geekcoffee.github.io/posts/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <pubDate>Fri, 08 Nov 2019 15:57:29 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <description>学会如何思考一件事情是一辈子的财富 我毕业后的第一份工作是在深圳的一家机器人公司做基础库的开发，第一个师父是里面的一位高级软件架构师，虽然言语</description>
+    </item>
+    
+  </channel>
+</rss>

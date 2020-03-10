@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>流媒体协议 on Chen Sheng</title>
+    <link>https://geekcoffee.github.io/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/</link>
+    <description>Recent content in 流媒体协议 on Chen Sheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 08 Mar 2020 20:29:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://geekcoffee.github.io/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>流媒体协议</title>
+      <link>https://geekcoffee.github.io/posts/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:47 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

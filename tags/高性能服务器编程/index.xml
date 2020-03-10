@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高性能服务器编程 on Chen Sheng</title>
+    <link>https://geekcoffee.github.io/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 高性能服务器编程 on Chen Sheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Mar 2020 02:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://geekcoffee.github.io/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>计算机中池的概念</title>
+      <link>https://geekcoffee.github.io/posts/%E6%B1%A0%E7%9A%84%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Tue, 10 Mar 2020 02:17:11 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/%E6%B1%A0%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
+      <description>#池的概念 中国人喜欢比喻，把A比喻成B，但是你要知道，A永远不是B。 进程池 相应实现，参考我的另一篇文章《进程池的实现》 线程池 参考《半同步/半</description>
+    </item>
+    
+    <item>
+      <title>High_performance_server</title>
+      <link>https://geekcoffee.github.io/posts/high_performance_server/</link>
+      <pubDate>Mon, 09 Mar 2020 14:24:11 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/high_performance_server/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

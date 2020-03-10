@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>构建&#43;调试&#43;测试 on Chen Sheng</title>
+    <link>https://geekcoffee.github.io/tags/%E6%9E%84%E5%BB%BA&#43;%E8%B0%83%E8%AF%95&#43;%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 构建&#43;调试&#43;测试 on Chen Sheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 08 Mar 2020 22:35:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://geekcoffee.github.io/tags/%E6%9E%84%E5%BB%BA+%E8%B0%83%E8%AF%95+%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDB</title>
+      <link>https://geekcoffee.github.io/posts/gdb/</link>
+      <pubDate>Sun, 08 Mar 2020 22:35:43 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/gdb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

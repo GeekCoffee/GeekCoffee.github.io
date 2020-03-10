@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Chen Sheng</title>
+    <link>https://geekcoffee.github.io/tags/c/</link>
+    <description>Recent content in C on Chen Sheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 09 Mar 2020 19:37:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://geekcoffee.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C</title>
+      <link>https://geekcoffee.github.io/posts/c/</link>
+      <pubDate>Mon, 09 Mar 2020 19:37:16 +0800</pubDate>
+      
+      <guid>https://geekcoffee.github.io/posts/c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
